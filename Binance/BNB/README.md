@@ -15,3 +15,7 @@ Gas:
 Wallet
 - Wallets that support BNB Chain such as Metamask and TrustWallet would also support BAS.
 # BNB Smart Chain (BSC)
+
+
+# BSC Partition Chains
+- It is more similar to sharding.
