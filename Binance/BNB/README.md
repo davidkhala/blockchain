@@ -1,3 +1,4 @@
+BNB Chain = BNB Beacon Chain + BNB Smart Chain (BSC)
 # BNB Application Sidechain (BAS) 
 a multichain solution that allows large-scale applications to run their chain 
 - It also maintains a close connection with BSC
